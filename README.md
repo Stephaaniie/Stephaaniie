@@ -24,3 +24,5 @@ Fork on GitHub
 
 
 <a href="https://vuejs.org/" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephaaniie&layout=compact&langs_count=10"/> </a>
+
+<a href="https://vuejs.org/" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=Stephaaniie&show_icons=true)"/> </a>
