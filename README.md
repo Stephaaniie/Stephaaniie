@@ -1,10 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-6706
-Fork on GitHub
-1226
-
 <h1 align="center">Holaa 👋, Soy Stephanie</h1>
 <h3 align="center">Estudiante de Ingeniería informática en FIUBA. Dev BackEnd Jr JAVA, con conocimientos en varios lenguajes de programación, me gusta estar constantemente aprendiendo cosas nuevas y crecer en el mundo que me apasiona que es la tecnología.</h3>
 
