@@ -49,7 +49,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ![Most Used Languages](https://raw.githubusercontent.com/Stephaanie/github-stats-transparent/output/generated/languages.svg)
 
 </a>
-
+[![CI](https://github.com/Stephaaniie/Stephaaniie/actions/workflows/blank.yml/badge.svg)](https://github.com/Stephaaniie/Stephaaniie/actions/workflows/blank.yml)
 <br>
 
 ### 🛠️ My Projects
