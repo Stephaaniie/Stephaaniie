@@ -1,3 +1,6 @@
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="400"/>
+
 <h1 align="center">Holaa <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, Soy Stephanie <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">Estudiante de Ingeniería informática en FIUBA. Dev BackEnd Jr JAVA, con conocimientos en varios lenguajes de programación, me gusta estar constantemente aprendiendo cosas nuevas y crecer en el mundo que me apasiona que es la tecnología.</h3>
 
@@ -20,6 +23,4 @@
 
 <a href="https://vuejs.org/" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=Stephaaniie&show_icons=true)"/> </a>
   
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="400"/>
 
