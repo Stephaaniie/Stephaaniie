@@ -23,13 +23,11 @@
 
 ### 📊 Github Stats
 <a href='https://github.com/Stephaaniie/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/Stephaaniie/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Stephaaniie/github-stats-transparent/output/generated/languages.svg)
-</a>
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=Stephaaniie&show_icons=true)"/> </a>
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgantola&layout=compact&langs_count=10)"/> </a>
 
+  
 <br>
 
-<a href="https://vuejs.org/" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=Stephaaniie&show_icons=true)"/> </a>
   
 
