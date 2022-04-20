@@ -1,12 +1,12 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="400"/>
 
-<h1 align="center">Holaa <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, Soy Stephanie <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">Estudiante de Ingeniería informática en FIUBA. Dev BackEnd Jr JAVA, con conocimientos en varios lenguajes de programación, me gusta estar constantemente aprendiendo cosas nuevas y crecer en el mundo que me apasiona que es la tecnología.</h3>
+<h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I am Stephanie <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h3 align="center"> a semi-senior web developer experienced in client-first corporate/freelance projects, besides teaching in university and voluntary.</h3>
 
-- 🔭 Actualmente me encuentro trabajando en: [Node.js](https://github.com/Stephaaniie/NODE.JS)
+- 🔭 I am currently working in: [Node.js](https://github.com/Stephaaniie/NODE.JS)
 
-- 📫 Podes contactarme via e-mail **Stephaanie.castillo@gmail.com**
+- 📫 You can contact via email **Stephaanie.castillo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
